@@ -81,8 +81,9 @@ BlogSphere is a full-fledged blog application built with React.js that offers th
 ### Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
+
 ### License
-<!-- This project is licensed under the Apache License - see the [LICENSE](https://github.com/rajanjha9235/mega-blog/blob/main/LICENSE) file for details. -->
+This project is licensed under the Apache License - see the [LICENSE](https://github.com/adityamawa/Blog-Sphere/blob/main/LICENSE) file for details. 
 
 ### Additional Notes
 
