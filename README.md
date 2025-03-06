@@ -47,8 +47,9 @@ BlogSphere is a full-fledged blog application built with React.js that offers th
 
 ## Deployment & Repository
 
-- **Live Demo:** "will update soon"
-- **Repository:** https://github.com/adityamawa/Blog-Sphere
+- **Live Demo:** [BlogSphere](https://blog-sphere-eight.vercel.app/)
+- **Repository:** [GitHub Repo](https://github.com/adityamawa/Blog-Sphere)
+
 
 ## Installation
 
